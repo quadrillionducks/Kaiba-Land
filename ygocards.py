@@ -368,7 +368,7 @@ yextra = {
         "E":28
     },
     "The Dark Magicians": {
-        "description": "Dark Magician + Dark Magician",
+        "description": "Dark Magician + Dark Magician Girl",
         "ATK": 2800,
         "DEF": 2300,
         "level": 9,
